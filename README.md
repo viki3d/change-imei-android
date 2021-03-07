@@ -62,6 +62,8 @@ To cover these old APIs more code is needed (and I have not enought time to supp
 		<li>Android  8 - no </li>
 		<li>Android  7 - no (you need Xposed, instead EdXposed)</li>
 		<li>Android  6 - no (you need Xposed, instead EdXposed)</li>
+		<li>Android  5 - no (you need Xposed, instead EdXposed)</li>
+		<li>Android  4 - no (you need Xposed, instead EdXposed)</li>
 	</ul>
 </p>
 

@@ -29,8 +29,8 @@ To be able to run this app - you need to complete this steps:
 	<ol>
 		<li>Unlock your phone's bootloader</li>
 		<li>Root your phone</li>
-		<li>Install [Magisk](https://github.com/topjohnwu/Magisk/releases) (flash from Recovery /like TWRP/)</li>
-		<li>Install [Magisk Manager] (https://github.com/topjohnwu/Magisk/releases) (Android app, managing Magisk) more info [here](https://magiskmanager.com/)</li>
+		<li>Install [Magisk!](https://github.com/topjohnwu/Magisk/releases) (flash from Recovery /like TWRP/)</li>
+		<li>Install [Magisk Manager!](https://github.com/topjohnwu/Magisk/releases) (Android app, managing Magisk) more info [here](https://magiskmanager.com/)</li>
 		<li>Install EdXposed framework (from Magisk as Magisk module). This will install EdXposed framework + EdXposed App</li>
 		<li>Install Change-IMEI-Android (as EdXposed module) download [here]()</li>
 	</ol>
@@ -86,24 +86,24 @@ There are many IMEI generators in Internet, where you can generate valid IMEI nu
 <p align="justify">
 <b>Benefits of changing IMEI</b><br/>
 	<ul>
-		<li>
+		<li align="justify">
 			<b>Hide your phone model from your carrier.</b> 
 			Your IMEI encodes your phone model, so your carrier obtain this information without your agreement and can profile you without your consent by detecting your
 			social status (<i>"this person is using cheap/expensive phone - Brand/Model/Color"</i>).
 		</li>
-		<li>
+		<li align="justify">
 			<b>Use another SIM card without connecting it to you.</b> 
 			Carrier tracks you by maintaining link: Phone/IMEI<-->Sim/PhoneNumber. If you use somebody's else SIM card - this is detected by the carrier.
 			This could be very dangerous in China, where such action can damage your 'personal score' if you use SIM card of person with lower score.
 			Or even they detect you are using another SIM card.
 		</li>
-		<li>
+		<li align="justify">
 			<b>Prevent attacks agains yours personality.</b> 
 			Before someone being attacked - a lot of information is being collected about this person. This includes detecting: his/her home location, habits, devices, friends etc.
 			Preventing personal data leak is preventing attacks against your personality. GDPR protects european citizens from such illegal data collection.
 			However, in many other countries people are tracked in pretext of their good but this information is actually used (only) against them.
 		</li>
-		<li>
+		<li align="justify">
 			<b>Broken IMEI.</b>
 			Many people flash their phones with the so-called custom ROMs. Without knowing what they are doing - they flash by mistake their /efs partition.
 			Without having backup of this partition they can not restore their IMEI. Phone provides a defalt IMEI which is most often banned from carriers.
@@ -122,9 +122,10 @@ Changing IMEI can not hide you. If you are using a phone (connected to carrier/n
 	What are Xposed, EdXposed, LSPosed? Initially a Xposed framework was released but for the new Android versions
 	another versions of this framework appeared. Briefly:
 	<ul>
-		<li>Xposed - </li>
-		<li>EdXposed - </li>
-		<li>LSPosed - Android 8.0, 8.1, 9, 10, 11</li>
+		<li>Xposed Framework (Dalvik) - Android 4.2, 4.3, 4.4, 4.4W </li>
+		<li>Xposed - 5.0 up to Android 8.1</li>
+		<li>Riru - EdXposed - Android 8.0, 8.1, 9, 10, 11 or above</li>
+		<li>Riru - LSPosed - Android 8.0, 8.1, 9, 10, 11 or above</li>
 	</ul>
 	
 </p>

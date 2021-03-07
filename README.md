@@ -11,7 +11,7 @@ This app is free. No advertisements. Double-SIM phones support.
 </p>
 
 
-<p style="text-align:justify;">
+<p align="justify">
 Your IMEI is not actually changed. The IMEI is physically stored in phone as a file. This file is not modified.
 Changing of IMEI is done in the following way: The Android OS is patched, so when it read the IMEI from the file - 
 the result is replaced with the user's predefined value. This happens in the memory (runtime). The final result
@@ -36,8 +36,8 @@ To be able to run this app - you need to complete this steps:
 	</ol>
 </p>
 
+<b>How to run/use the app:</b>
 <p style="text-align:justify;">
-How to run/use the app:
 	<ol>
 		<li>Ensure all prerequisites are met</li>
 		<li>Run the EdXposed App and activate the module <i>Change-IMEI-Android</i></li>
@@ -122,9 +122,9 @@ Changing IMEI can not hide you. If you are using a phone (connected to carrier/n
 	What are Xposed, EdXposed, LSPosed? Initially a Xposed framework was released but for the new Android versions
 	another versions of this framework appeared. Briefly:
 	<ul>
-		<li>Xposed - <li>
-		<li>EdXposed - <li>
-		<li>LSPosed - Android 8.0, 8.1, 9, 10, 11<li>
+		<li>Xposed - </li>
+		<li>EdXposed - </li>
+		<li>LSPosed - Android 8.0, 8.1, 9, 10, 11</li>
 	</ul>
 	
 </p>

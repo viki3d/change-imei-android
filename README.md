@@ -5,7 +5,9 @@
 <p align="justify">
 Change-IMEI-Android is an Android App, which can help you to change(*spoof) the IMEI of your phone.
 	[a link](http://google.com)
+	My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
 </p>
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
 
 <p align="justify">
 This app is free. No advertisements. Double-SIM phones support.
@@ -87,24 +89,24 @@ There are many IMEI generators in Internet, where you can generate valid IMEI nu
 <p align="justify">
 <b>Benefits of changing IMEI</b><br/>
 	<ul>
-		<li align="justify">
+		<li>
 			<b>Hide your phone model from your carrier.</b> 
 			Your IMEI encodes your phone model, so your carrier obtain this information without your agreement and can profile you without your consent by detecting your
 			social status (<i>"this person is using cheap/expensive phone - Brand/Model/Color"</i>).
 		</li>
-		<li align="justify">
+		<li>
 			<b>Use another SIM card without connecting it to you.</b> 
 			Carrier tracks you by maintaining link: Phone/IMEI<-->Sim/PhoneNumber. If you use somebody's else SIM card - this is detected by the carrier.
 			This could be very dangerous in China, where such action can damage your 'personal score' if you use SIM card of person with lower score.
 			Or even they detect you are using another SIM card.
 		</li>
-		<li align="justify">
+		<li>
 			<b>Prevent attacks agains yours personality.</b> 
 			Before someone being attacked - a lot of information is being collected about this person. This includes detecting: his/her home location, habits, devices, friends etc.
 			Preventing personal data leak is preventing attacks against your personality. GDPR protects european citizens from such illegal data collection.
 			However, in many other countries people are tracked in pretext of their good but this information is actually used (only) against them.
 		</li>
-		<li align="justify">
+		<li>
 			<b>Broken IMEI.</b>
 			Many people flash their phones with the so-called custom ROMs. Without knowing what they are doing - they flash by mistake their /efs partition.
 			Without having backup of this partition they can not restore their IMEI. Phone provides a defalt IMEI which is most often banned from carriers.

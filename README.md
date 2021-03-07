@@ -23,19 +23,15 @@ is: Android OS reads the real IMEI but reports the predefined value. This is cal
 This framework is starting before the Adroid OS, loads it's modules, so then can work.
 </p>
 
-[test](http://google.com)
-[Magisk1](https://github.com/topjohnwu/Magisk/releases)
-[Magisk2](<https://github.com/topjohnwu/Magisk/releases>)
-[Magisk3](https://github.com/topjohnwu/Magisk/releases)(other)
-
 <b>Prerequisites</b>
 <p align="justify">
 To be able to run this app - you need to complete this steps:
 	<ol>
 		<li>Unlock your phone's bootloader</li>
 		<li>Root your phone</li>
-		<li>Install <a href='https://github.com/topjohnwu/Magisk/releases'>Magisk</a> (flash from Recovery /like TWRP/)</li>
-		<li>Install [Magisk Manager](https://github.com/topjohnwu/Magisk/releases) (Android app, managing Magisk) more info [here](https://magiskmanager.com/)</li>
+		<li>Install <a href='https://github.com/topjohnwu/Magisk/releases' target="_blank">Magisk</a> (flash from Recovery /like TWRP/)</li>
+		<li>Install <a href='https://github.com/topjohnwu/Magisk/releases' target="_blank">Magisk Manager</a> (Android app, managing Magisk) more info 
+			<a href='https://magiskmanager.com' target="_blank">here</a></li>
 		<li>Install EdXposed framework (from Magisk as Magisk module). This will install EdXposed framework + EdXposed App</li>
 		<li>Install Change-IMEI-Android (as EdXposed module) download [here]()</li>
 	</ol>

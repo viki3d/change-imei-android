@@ -24,6 +24,9 @@ This framework is starting before the Adroid OS, loads it's modules, so then can
 </p>
 
 [test](http://google.com)
+[Magisk1](https://github.com/topjohnwu/Magisk/releases)
+[Magisk2](<https://github.com/topjohnwu/Magisk/releases>)
+[Magisk3](https://github.com/topjohnwu/Magisk/releases)(other)
 
 <b>Prerequisites</b>
 <p align="justify">

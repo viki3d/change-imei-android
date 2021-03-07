@@ -32,8 +32,9 @@ To be able to run this app - you need to complete this steps:
 		<li>Install <a href='https://github.com/topjohnwu/Magisk/releases' target="_blank">Magisk</a> (flash from Recovery /like TWRP/)</li>
 		<li>Install <a href='https://github.com/topjohnwu/Magisk/releases' target="_blank">Magisk Manager</a> (Android app, managing Magisk) more info 
 			<a href='https://magiskmanager.com' target="_blank">here</a></li>
-		<li>Install EdXposed framework (from Magisk as Magisk module). This will install EdXposed framework + EdXposed App</li>
-		<li>Install Change-IMEI-Android (as EdXposed module) download [here]()</li>
+		<li>Install Riru (from Magisk as Magisk module). This injects into Android Zygote process. Required by all Riru Modules (EdXposed)</li>
+		<li>Install Riru-EdXposed framework (from Magisk as Magisk module). This will install EdXposed framework + EdXposed Android Manager App</li>
+		<li>Install Change-IMEI-Android. Download <a href='' target="_blank">here</a></li>
 	</ol>
 </p>
 
@@ -123,10 +124,10 @@ Changing IMEI can not hide you. If you are using a phone (connected to carrier/n
 	What are Xposed, EdXposed, LSPosed? Initially a Xposed framework was released but for the new Android versions
 	another versions of this framework appeared. Briefly:
 	<ul>
-		<li>Xposed Framework (Dalvik) - Android 4.2, 4.3, 4.4, 4.4W </li>
-		<li>Xposed - 5.0 up to Android 8.1</li>
-		<li>Riru - EdXposed - Android 8.0, 8.1, 9, 10, 11 or above</li>
-		<li>Riru - LSPosed - Android 8.0, 8.1, 9, 10, 11 or above</li>
+		<li>Xposed Framework (Dalvik): Android 4.2, 4.3, 4.4, 4.4W </li>
+		<li>Xposed: 5.0 up to Android 8.1</li>
+		<li>Riru - EdXposed: Android 8.0, 8.1, 9, 10, 11 or above</li>
+		<li>Riru - LSPosed: Android 8.0, 8.1, 9, 10, 11 or above</li>
 	</ul>
 	
 </p>

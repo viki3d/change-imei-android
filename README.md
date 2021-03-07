@@ -4,10 +4,7 @@
 
 <p align="justify">
 Change-IMEI-Android is an Android App, which can help you to change(*spoof) the IMEI of your phone.
-	[a link](http://google.com)
-	My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
 </p>
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
 
 <p align="justify">
 This app is free. No advertisements. Double-SIM phones support.
@@ -32,8 +29,8 @@ To be able to run this app - you need to complete this steps:
 	<ol>
 		<li>Unlock your phone's bootloader</li>
 		<li>Root your phone</li>
-		<li>Install [Magisk!](https://github.com/topjohnwu/Magisk/releases) (flash from Recovery /like TWRP/)</li>
-		<li>Install [Magisk Manager!](https://github.com/topjohnwu/Magisk/releases) (Android app, managing Magisk) more info [here](https://magiskmanager.com/)</li>
+		<li>Install [Magisk](https://github.com/topjohnwu/Magisk/releases) (flash from Recovery /like TWRP/)</li>
+		<li>Install [Magisk Manager](https://github.com/topjohnwu/Magisk/releases) (Android app, managing Magisk) more info [here](https://magiskmanager.com/)</li>
 		<li>Install EdXposed framework (from Magisk as Magisk module). This will install EdXposed framework + EdXposed App</li>
 		<li>Install Change-IMEI-Android (as EdXposed module) download [here]()</li>
 	</ol>

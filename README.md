@@ -138,5 +138,8 @@ Changing IMEI can not hide you. If you are using a phone (connected to carrier/n
 ## Download
 ![change-imei-android](change-imei-android.png "change-imei-android")  
 Watch on [Youtube](https://youtu.be/ivDSru1uWS4).  
-[Download here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/viki3d/change-imei-android/blob/main/Change-IMEI-android.apk)  
+
+[![change-imei-android](change-imei-android.png "change-imei-android")](https://youtu.be/ivDSru1uWS4).  
+  
+&bull; [Download here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/viki3d/change-imei-android/blob/main/Change-IMEI-android.apk)  
 

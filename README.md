@@ -141,6 +141,13 @@ Changing IMEI can not hide you. If you are using a phone (connected to carrier/n
 	
 </p>
 
+## Update
+The module is working with current version of LSPosed, which supports Android versions from 8 to lastest until now - 14.  
+Unfortunately the LSPosed framework is so badly designed, so that works only with pre-set apps. This means if you are hiding some of your phone properties like
+deviceId, ImeiSlotId, Imei, etc and install a new app - it will see their real values. This fact is critical that make the framework purpose obsolette. Now I should
+find some time for 1] patch LSPosed (and make patch so new versions to be patched) so it became reliable 2] Update this module (some more things are added to LSPosed)
+3] I'm thinking to release the code but not any time to clean it for the repo; this will be my lowest priority.
+
 
 ## Download
 [![change-imei-android](change-imei-android.png "Watch on YouTube")](https://youtu.be/ivDSru1uWS4).  

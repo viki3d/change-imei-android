@@ -67,6 +67,13 @@ To cover these old APIs more code is needed (and I have not enought time to supp
 	</ul>
 </p>
 
+<b>Tested configuraions</b>
+<p align="justify">
+- Magisk v21.4 (21400)
+- [Magisk module] Riru v25.4.4.r426
+- [Magisk module] Riru-EdXposed v0.5.2.2_4683
+</p>
+
 ## Changing IMEI
 
 <b>Remarks about changing IMEI</b>

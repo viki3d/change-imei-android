@@ -56,7 +56,7 @@ This app has been made especially for Lineage OS 17 (with Android 10).
 Older Android versions are not supported since another (older) API is used to read the data (IMEIs, etc).
 To cover these old APIs more code is needed (and I have not enought time to support them now).
 	<ul>
-		<li>Android 11 - ?</li>
+		<li>Android 11 - yes?</li>
 		<li>Android 10 - yes</li>
 		<li>Android  9 - no </li>
 		<li>Android  8 - no </li>
@@ -69,9 +69,9 @@ To cover these old APIs more code is needed (and I have not enought time to supp
 
 <b>Tested configuraions</b>
 <p align="justify">
-- Magisk v21.4 (21400)
-- [Magisk module] Riru v25.4.4.r426
-- [Magisk module] Riru-EdXposed v0.5.2.2_4683
+- Magisk v21.4 (21400)  
+- [Magisk module] Riru v25.4.4.r426  
+- [Magisk module] Riru-EdXposed v0.5.2.2_4683  
 </p>
 
 ## Changing IMEI

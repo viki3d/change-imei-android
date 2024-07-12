@@ -117,7 +117,7 @@ There are many IMEI generators in Internet, where you can generate valid IMEI nu
 		<li>
 			<b>Broken IMEI.</b>
 			Many people flash their phones with the so-called custom ROMs. Without knowing what they are doing - they flash by mistake their /efs partition.
-			Without having backup of this partition they can not restore their IMEI. Phone provides a defalt IMEI which is most often banned from carriers.
+			Without having backup of this partition they can not restore their MI. Phone provides a defalt IMEI which is most often banned from carriers.
 			In result their device become useless. This app is second chance to use such phone.
 		</li>
 	</ul>

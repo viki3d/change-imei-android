@@ -5,6 +5,7 @@
 <p align="justify">
 Change-IMEI-Android is an Android App, which can help you to change(*spoof) the IMEI of your phone.
 </p>
+oppo reno 10+ pro
 
 <p align="justify">
 This app is free. No advertisements. Double-SIM phones support.
